@@ -1,6 +1,9 @@
 # 5G-Service-Architecture-Model
 Rolling Drawio diagram of a 5G Service Oriented Architectural Model. The diagram can be visualized with [Draw.io](https://www.drawio.com/blog/edit-diagrams-with-github-dev)
 
+
+<img src="./5G-Architecture_Model.jpg"  style="width:30%; display: block; margin-left: auto; margin-right: auto;"> 
+
 ## Goal
 
 This work aims at depicting an E2E model being fully compliant with 3GPP Release 17 standardization framework and able to integrate novel directives provided by main standardization organizations and industry alliances, to flexibly adapt to future "Beyond 5G" network instances.

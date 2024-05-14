@@ -1,5 +1,5 @@
 # 5G-Service-Architecture-Model
-Rolling Drawio diagram of a 5G Service Oriented Architectural Model. The diagram can be opened with [Draw.io](https://www.drawio.com/blog/edit-diagrams-with-github-dev)
+Rolling Drawio diagram of a 5G Service Oriented Architectural Model. The diagram can be visualized with [Draw.io](https://www.drawio.com/blog/edit-diagrams-with-github-dev)
 
 ## Goal
 
